@@ -1,0 +1,5 @@
+char origen, destino;
+printf("Dame el origen de la ruta");
+scanf("El origen es: %c",&origen);
+printf("Dame el destino de la ruta");
+scanf("El destino es: %c",&destino);
